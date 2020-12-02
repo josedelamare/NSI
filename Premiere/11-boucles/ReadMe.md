@@ -1,10 +1,12 @@
 # Notebooks sur les boucles bornées (for) et non bornées (while)
 
-1. La guerre des boutons (boucle While)
+**1. La guerre des boutons (boucle While)**
 
-2. Factorielle d'un nombre (boucle For)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=%2FPremiere%2F11-boucles%2Fguerre_boutons.ipynb)
 
-3. Exercices divers :
-3.1 division euclidienne
-3.2 année bisextile
-3.3 maximum de 3 nombres
+**2. Factorielle d'un nombre (boucle For)**
+
+**3. Exercices divers :**
+- division euclidienne
+- année bisextile
+- maximum de 3 nombres
