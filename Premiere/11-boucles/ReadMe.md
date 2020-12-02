@@ -12,3 +12,6 @@
 - somme, différence, quotient et reste de la division euclidienne
 - année bisextile
 - maximum de 3 nombres
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=%2FPremiere%2F11-boucles%2Fexos_complementaires.ipynb)
+
