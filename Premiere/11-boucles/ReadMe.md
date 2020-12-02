@@ -6,6 +6,8 @@
 
 **2. Factorielle d'un nombre (boucle For)**
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=%2FPremiere%2F11-boucles%2Ffactorielle.ipynb)
+
 **3. Exercices divers :**
 - somme, différence, quotient et reste de la division euclidienne
 - année bisextile
