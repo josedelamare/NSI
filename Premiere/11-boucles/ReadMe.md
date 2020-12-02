@@ -7,6 +7,6 @@
 **2. Factorielle d'un nombre (boucle For)**
 
 **3. Exercices divers :**
-- division euclidienne
+- somme, différence, quotient et reste de la division euclidienne
 - année bisextile
 - maximum de 3 nombres
