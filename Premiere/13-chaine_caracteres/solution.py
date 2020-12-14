@@ -161,10 +161,10 @@ inputs_milieu_chaine = [
 
 inputs_milieu_n_chaine = [
     Args("toto",1,2),
-    Args("mamie"1,2),
-    Args("laitière"1,3),
-    Args("anticonstitutionnelement"3,5),
-    Args("élastique"2,3)
+    Args("mamie",1,2),
+    Args("laitière",1,3),
+    Args("anticonstitutionnelement",3,5),
+    Args("élastique",2,3)
 ]
 
 ########## step 3
