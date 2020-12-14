@@ -37,7 +37,7 @@ def fin_chaine(chaine):
     
 
 def milieu_chaine(chaine):
-    """renvoie la chaine sans le premierni le dernier caractère"""
+    """renvoie la chaine sans le premier ni le dernier caractère"""
     
     copie = ''
     for i in range(1, len(chaine)-1, 1):
@@ -48,7 +48,7 @@ def saut_chaine(chaine):
     """renvoie la chaine en prenant un caractère sur deux"""
     
     copie = ''
-    for i in range(1, len(chaine), 2):
+    for i in range(0, len(chaine), 2):
         copie = copie + chaine[i]
     return copie
 
@@ -73,15 +73,15 @@ def fin_n_chaine(chaine, n):
     """renvoie les n derniers éléments de la chaîne de caractères"""
     
     copie = ''
-    for i in range(n, len(chaine), 1):
+    for i in range(len(chaine)-n, len(chaine), 1):
         copie = copie + chaine[i]
     return copie
     
 def milieu_n_chaine(chaine, n1, n2):
-    """renvoie la partie comprise entre chaine[n1] et chaine[n2]"""
+    """renvoie la chaîne sans les n1 premiers caractères et les n2 derniers caractères""
     
     copie = ''
-    for i in range(n1, n2, 1):
+    for i in range(n1, len(chaine)-n2, 1):
         copie = copie + chaine[i]
     return copie
     
