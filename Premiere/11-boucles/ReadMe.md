@@ -1,4 +1,10 @@
-# Notebooks sur les boucles bornées (for) et non bornées (while)
+# Les boucles bornées (for) et non bornées (while)
+
+Le cours est disponible sur ce lien : [cours.pdf](cours.pdf).
+Le fichier d'exercices est téléchargeable en suivant ce lien (clic-droit, puis choisir enregistrer sous...) : [exercices.py](exercices.py). Le module doctest permet de pratiquer l'autoévaluation.
+
+
+## Quelques notebooks sur les boucles (cliquer directement sur le bouton Launchbinder).
 
 **1. La guerre des boutons (boucle While)**
 
