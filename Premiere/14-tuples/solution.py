@@ -71,7 +71,7 @@ def supp_position(t, i):
     longueur = len(t)
     for j in range (0, i, 1):
         new_tup = new_tup + (t[j],)
-    for j in range (i, longueur, 1):
+    for j in range (i+1, longueur, 1):
         new_tup = new_tup + (t[j],)
     return new_tup
     
