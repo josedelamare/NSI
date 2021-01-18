@@ -14,6 +14,32 @@ from random import randint
 # You need to define the 'correct' function
 # i.e. one that would be accepted as valid for the problem
 
+def exo_ajout_tete_exemple(t, elt):
+    return [elt] + t
+
+def exo_ajout_queue_exemple(t, elt):
+    return t + [elt]
+
+def exo_ajout_tete_correction(f):
+    t1 = [i for i in range (1, 10)]
+    t2 = f(t1, 10)
+    assert len(t2) == len(t1) + 1, "le tableau ne contient pas le bon nombre d'éléments"
+    assert t2[0] == 10, "le premier élément du tableau ne contient pas l'élément inséré"
+    for i in range(0, len(t1), 1):
+        assert t1[i] == t2[i+1], "le tableau renvoyé ne contient pas tous les éléments du premier tableau"
+    return "Bravo ! je crois que vous avez réussi"
+
+
+def exo_ajout_queue_correction(f):
+    t1 = [i for i in range (1, 10)]
+    t2 = f(t1, 10)
+    assert len(t2) == len(t1) + 1, "le tableau ne contient pas le bon nombre d'éléments"
+    assert t2[-1] == 10, "le premier élément du tableau ne contient pas l'élément inséré"
+    for i in range(0, len(t1), 1):
+        assert t1[i] == t2[i], "le tableau renvoyé ne contient pas tous les éléments du premier tableau"
+    return "Bravo ! je crois que vous avez réussi"
+
+
 def ajout_queue(t, element):
     """renvoie un tableau contenant element ajouté en queue de t"""
     new_tab = (len(t)+1)*[0]
@@ -60,6 +86,31 @@ def croissant(n, a, b):
         tab[i] = tab[i-1] + randint(a,b)
     return tab
     
+
+def exo_aleatoire_correction(f):
+    t1 = f(20, 1, 100)
+    t2 = f(20, 1, 100)
+    assert len(t2) == 20, "le tableau ne contient pas le bon nombre d'éléments"
+    assert t1 != t2, "le tableau ne contient pas des éléments tirés aléatoirement"
+    for element in t1:
+        assert type(element) == int, "il y a des éléments du tableau qui ne sont pas des entiers"
+    for element in t1:
+        assert 1 <= element <= 100, "il y a des éléments du tableau qui ne sont pas compris entre a et b inclus"
+    return "Bravo ! je crois que vous avez réussi"
+
+    
+
+def exo_croissant_correction(f):
+    t1 = f(20, 1, 100)
+    t2 = f(20, 1, 100)
+    assert len(t2) == 20, "le tableau ne contient pas le bon nombre d'éléments"
+    assert t1 != t2, "le tableau ne contient pas des éléments tirés aléatoirement"
+    for element in t1:
+        assert type(element) == int, "il y a des éléments du tableau qui ne sont pas des entiers"
+    assert 1 <= t1[0] <= 100, "le premier élément du tableau n'est pas compris entre a et b"
+    for i in range(0, 19, 1):
+        assert t1[i] < t1[i+1], "il y a des éléments du tableau qui ne sont pas insérés par ordre croissant"
+    return "Bravo ! je crois que vous avez réussi"
     
 
 ########## step 2
