@@ -10,4 +10,4 @@ Le fichier d'exercices à télécharger : [exercices.py](exercices.py). L'utilisati
 
 ## Travail en autonomie
 
-Un travail en autonomie pour acquérir des automatismes est possible. Pour cela, il suffit de se rendre sur la page suivante : [travail en autonomie](autonomie.ReadMe.md)
+Un travail en autonomie pour acquérir des automatismes est possible. Pour cela, il suffit de se rendre sur la page suivante : [travail en autonomie](autonomie/ReadMe.md)
