@@ -4,7 +4,7 @@ Chaque notebook contient une seule fonction à coder et à utiliser. Ils sont clas
 
 Le cours de première (pour se rappeler des choses) : [cours.pdf](../cours.pdf)
 
-Pou lancer le notebook, cliquez que l'image [![Binder](https://mybinder.org/badge_logo.svg)]
+Pour lancer le notebook, cliquez que l'image ![Binder](https://mybinder.org/badge_logo.svg)
 
 ## Ajout d'éléments à un tableau
 
