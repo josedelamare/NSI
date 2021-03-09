@@ -8,7 +8,7 @@ Le cours de première (pour se rappeler des choses) : [cours.pdf](cours.pdf)
 Un travail en autonomie pour acquérir des automatismes est possible. Pour cela, il suffit de se rendre sur la page suivante : [travail en autonomie](autonomie/ReadMe.md)
 
 
-Pour lancer le notebook, cliquez que l'image [Binder](../../IMG/badge_logo.svg)
+Pour lancer le notebook, cliquez que l'image ![Binder](../../IMG/badge_logo.svg)
 
 ## Niveau 1
 
