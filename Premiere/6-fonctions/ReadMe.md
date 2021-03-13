@@ -1,6 +1,7 @@
 # Les fonctions
 
-Le cours de première sur les fonctions : [cours.pdf](cours.pdf)
+Le cours de première sur les fonctions : [cours.pdf](cours-fonctions.pdf)
+
 Le cours de première sur le prototypage des fonctions : [cours.pdf](cours-prototypage.pdf)
 
 
