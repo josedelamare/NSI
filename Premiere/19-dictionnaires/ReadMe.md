@@ -1,6 +1,6 @@
 # Les dictionnaires
 
-Le cours de première (pour se rappeler des choses) : [cours.pdf](cours.pdf)
+Le cours de première (pour se rappeler des choses) : [cours.pdf](Cours.pdf)
 
 
 ## Travail en autonomie
