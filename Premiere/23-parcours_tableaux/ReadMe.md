@@ -19,8 +19,8 @@ Un travail en autonomie pour acquérir des automatismes est possible. Pour cela, 
 1. Recherche des nombres pairs dans un tableau. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F23-parcours_tableaux%2FAutonomie%2Frecherche-pairs.ipynb)
 2. Recherche des nombres impairs dans un tableau. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F23-parcours_tableaux%2FAutonomie%2Frecherche-impairs.ipynb)
 3. Recherche des nombres pairs et impairs dans un tableau. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F23-parcours_tableaux%2FAutonomie%2Frecherche-pairs-impairs.ipynb)
-4. Entremêler deux tableaux. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F23-parcours_tableaux%2FAutonomie%2Fentremele.ipynb)
-5. Décalage circulaire. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F23-parcours_tableaux%2FAutonomie%2Fdecalage-circulaire.ipynb)
+4. Décalage circulaire. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F23-parcours_tableaux%2FAutonomie%2Fdecalage-circulaire.ipynb)
+5. Entremêler deux tableaux. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F23-parcours_tableaux%2FAutonomie%2Fentremele.ipynb)
 
 ## Niveau 3
 
