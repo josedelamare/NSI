@@ -24,7 +24,7 @@ Un travail en autonomie pour acquérir des automatismes est possible. Pour cela, 
 
 ## Niveau 3
 
-1. Permuter deux valeurs d'un tableau. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F23-parcours_tableaux%2FAutonomie%2Fpermute.ipynb
+1. Permuter deux valeurs d'un tableau. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F23-parcours_tableaux%2FAutonomie%2Fpermute.ipynb)
 2. Inverser valeurs d'un tableau. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F23-parcours_tableaux%2FAutonomie%2Finverse.ipynb)
 3. Différences successives valeurs d'un tableau. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F23-parcours_tableaux%2FAutonomie%2Fdifferences_successives.ipynb)
 4. Distance de Hamming entre deux tableaux. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F23-parcours_tableaux%2FAutonomie%2Fhamming.ipynb)
