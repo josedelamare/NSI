@@ -6,3 +6,4 @@ Ensemble de notebooks pour la classe de première. Pour chaque chapitre, vous tr
 - [Les tuples](14-tuples/ReadMe.md)
 - [Les tableaux](15-tableaux/ReadMe.md)
 - [Les dictionnaires](19-dictionnaires/ReadMe.md)
+- [Parcours séquentiel d'un tableau](23-parcours_tableaux/ReadMe.md)
