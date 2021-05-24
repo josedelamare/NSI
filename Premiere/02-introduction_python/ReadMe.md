@@ -16,3 +16,16 @@ Un travail en autonomie pour acquérir des automatismes est possible (merci à J
 2. [aire d'un carre](https://josedelamare.github.io/supersite/Premiere/02-introduction_python/aire-2.html)
 3. [périmètre d'un rectangle](https://josedelamare.github.io/supersite/Premiere/02-introduction_python/perimetre-1.html)
 4. [périmètre d'un carré](https://josedelamare.github.io/supersite/Premiere/02-introduction_python/perimetre-2.html)
+5. [calcul simple](https://josedelamare.github.io/supersite/Premiere/02-introduction_python/operation-1.html)
+
+## Niveau 2 :
+1. [calcul de fraction](https://josedelamare.github.io/supersite/Premiere/02-introduction_python/operation-2.html)
+2. [inverse d'un polynôme de degré 1](https://josedelamare.github.io/supersite/Premiere/02-introduction_python/operation-3.html)
+3. [division de deux polynômes](https://josedelamare.github.io/supersite/Premiere/02-introduction_python/operation-4.html)
+4. [calcul d'un prix TTC](https://josedelamare.github.io/supersite/Premiere/02-introduction_python/prix-ttc.html)
+
+## Niveau 3 :
+1. [division emboîtées de polynômes](https://josedelamare.github.io/supersite/Premiere/02-introduction_python/operation-5.html)
+2. [volume et surface d'un cube](https://josedelamare.github.io/supersite/Premiere/02-introduction_python/cube.html)
+3. [volume et surface d'un parallélepipède](https://josedelamare.github.io/supersite/Premiere/02-introduction_python/parallepipede.html)
+4. [calcul d'un prix HT](https://josedelamare.github.io/supersite/Premiere/02-introduction_python/prix-ht.html)
