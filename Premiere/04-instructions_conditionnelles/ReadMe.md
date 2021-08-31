@@ -14,7 +14,7 @@ Un travail en autonomie pour acquérir des automatismes est possible (merci à J
 
 ## Niveau 1 :
 1. [racine carré version 1](https://josedelamare.github.io/supersite/Premiere/04-instructions_conditionnelles/n1_racine1.html)
-2. [racine carré version 2](https://josedelamare.github.io/supersite/Premiere/04-instructions_conditionnelles/n1-racine2.html)
+2. [racine carré version 2](https://josedelamare.github.io/supersite/Premiere/04-instructions_conditionnelles/n1_racine2.html)
 3. [test de parité](https://josedelamare.github.io/supersite/Premiere/04-instructions_conditionnelles/n1_parite.html)
 4. [obtention d'un diplôme version 1](https://josedelamare.github.io/supersite/Premiere/04-instructions_conditionnelles/n1_moyenne1.html)
 5. [obtention d'un diplôme version 2](https://josedelamare.github.io/supersite/Premiere/04-instructions_conditionnelles/n1_moyenne2.html)
