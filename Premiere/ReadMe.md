@@ -1,6 +1,7 @@
 Ensemble de notebooks pour la classe de première. Pour chaque chapitre, vous trouverez un résumé du cours, ainsi que des exercices autocorrectifs.
 
 - [Les instructions de base en python](02-introduction_python/ReadMe.md)
+- [Les valeurs booléennes](03-operateurs_booleens/ReadMe.md)
 - [Les fonctions](06-fonctions/ReadMe.md)
 - [Les boucles](11-boucles/ReadMe.md)
 - [Les chaines de caractères](13-chaine_caracteres/ReadMe.md)
