@@ -1,6 +1,10 @@
 # Instructions conditionnelles en Python
 
-Le cours de première  : [cours.pdf](Cours.pdf)
+## Notebook introductif : Cliquez sur l'image ci-dessous : 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F04-instructions_conditionnelles%2Fstructures_conditionnelles.ipynb)
+
+**Le cours de première**  : [cours.pdf](Cours.pdf)
 
 
 ## Travail en autonomie
