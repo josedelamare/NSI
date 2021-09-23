@@ -16,9 +16,8 @@ Un travail en autonomie pour acquérir des automatismes est possible. Pour cela, 
 
 ## Niveau 1
 
-1. Les 4 opérations - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fquatre_operations.ipynb)
-2. multiple - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fest_multiple.ipynb)
-3. Une division - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fdivision_1.ipynb)
+1. multiple - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fest_multiple.ipynb)
+2. Une division - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fdivision_1.ipynb)
 
 ## Niveau 2
 
