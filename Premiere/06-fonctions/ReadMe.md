@@ -16,11 +16,14 @@ Un travail en autonomie pour acquérir des automatismes est possible. Pour cela, 
 
 ## Niveau 1
 
-1. multiple - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fest_multiple.ipynb)
-2. Une division - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fdivision_1.ipynb)
+1. équation d'une droite - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fequation_droite.ipynb)
+2. catégorie d'âge - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fcategorie.ipynb)
+3. multiple - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fest_multiple.ipynb)
+4. Une division - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fdivision_1.ipynb)
 
 ## Niveau 2
 
-1. Nature d'un triangle. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fnature_triangle.ipynb)
-2. Une deuxième division. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fdivision_2.ipynb)
-3. Surface d'une figure géométrique simple. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fsurface.ipynb)
+1. Aire d'un carré.[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Faire_carre.ipynb)
+2. Nature d'un triangle. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fnature_triangle.ipynb)
+3. Une deuxième division. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fdivision_2.ipynb)
+4. Surface d'une figure géométrique simple. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F06-fonctions%2FAutonomie%2Fsurface.ipynb)
