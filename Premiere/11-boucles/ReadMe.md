@@ -1,7 +1,12 @@
 # Les boucles bornées (for) et non bornées (while)
 
 Le cours est disponible sur ce lien : [cours.pdf](cours.pdf).
-Le fichier d'exercices est téléchargeable en suivant ce lien (clic-droit, puis choisir enregistrer sous...) : [exercices.py](exercices.py). Le module doctest permet de pratiquer l'autoévaluation.
+
+
+
+## Notebook introductif : Cliquez sur l'image ci-dessous : 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI/main?filepath=Premiere%2F11-boucles%2Fintroduction_boucles.ipynb)
 
 
 ## Quelques notebooks sur les boucles (cliquer directement sur le bouton Launchbinder).
