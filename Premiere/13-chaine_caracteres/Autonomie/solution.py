@@ -262,42 +262,42 @@ exo_milieu_n_chaine = ExerciseFunction(
 
 # tests supplémentaires
 def test_ajout_queue(func,var):
-    assert func("mot", "s"), "la fonction ne semble pas fonctionner pour la chaîne mot
+    assert func("mot", "s"), "la fonction ne semble pas fonctionner pour la chaîne mot"
     assert var == "mots", "la variable toto n'a pas été utilisée"
     print('tous les tests ont réussi')
 
 def test_saut_chaine(func,var):
-    assert func("mot"), "la fonction ne semble pas fonctionner pour la chaîne mot
+    assert func("mot"), "la fonction ne semble pas fonctionner pour la chaîne mot"
     assert var == "mt", "la variable toto n'a pas été utilisée"
     print('tous les tests ont réussi')
 
 def test_debut_chaine(func,var):
-    assert func("mot"), "la fonction ne semble pas fonctionner pour la chaîne mot
+    assert func("mot"), "la fonction ne semble pas fonctionner pour la chaîne mot"
     assert var == "mo", "la variable toto n'a pas été utilisée"
     print('tous les tests ont réussi')
 
 def test_fin_chaine(func,var):
-    assert func("mot"), "la fonction ne semble pas fonctionner pour la chaîne mot
+    assert func("mot"), "la fonction ne semble pas fonctionner pour la chaîne mot"
     assert var == "ot", "la variable toto n'a pas été utilisée"
     print('tous les tests ont réussi')
 
 def test_milieu_chaine(func,var):
-    assert func("mot"), "la fonction ne semble pas fonctionner pour la chaîne mot
+    assert func("mot"), "la fonction ne semble pas fonctionner pour la chaîne mot"
     assert var == "o", "la variable toto n'a pas été utilisée"
     print('tous les tests ont réussi')
 
 def test_debut_n_chaine(func,var):
-    assert func("barbapapa", 5), "la fonction ne semble pas fonctionner pour la chaîne barbapapa
+    assert func("barbapapa", 5), "la fonction ne semble pas fonctionner pour la chaîne barbapapa"
     assert var == "barba", "la variable toto n'a pas été utilisée"
     print('tous les tests ont réussi')
 
 def test_fin_n_chaine(func,var):
-    assert func("barbapapa", 5), "la fonction ne semble pas fonctionner pour la chaîne barbapapa
+    assert func("barbapapa", 5), "la fonction ne semble pas fonctionner pour la chaîne barbapapa"
     assert var == "apapa", "la variable toto n'a pas été utilisée"
     print('tous les tests ont réussi')
     
 def test_milieu_n_chaine(func,var):
-    assert func("barbapapa", 3, 2), "la fonction ne semble pas fonctionner pour la chaîne barbapapa
+    assert func("barbapapa", 3, 2), "la fonction ne semble pas fonctionner pour la chaîne barbapapa"
     assert var == "bapa", "la variable toto n'a pas été utilisée"
     print('tous les tests ont réussi')
 
