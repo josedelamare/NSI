@@ -1,0 +1,5 @@
+<p>1. Complétez les lignes 3 et 6 avec la liste des valeurs du temps et de la position</p>
+<p>2. Complétez la lignes 15 et 16 permettant de calculer :</p>
+<p style="padding-left: 40px;">- l'énergie potentielle à l'instant ti</p>
+<p style="padding-left: 40px;">- l'énergie mécanique à l'instant ti<span id="MathJax-Element-3-Frame" class="MathJax" style="box-sizing: border-box; display: inline-table; line-height: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; position: relative;" tabindex="0" role="presentation" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><msub><mi>t</mi><mi>i</mi></msub></math>"><span id="MathJax-Span-11" class="math" style="box-sizing: content-box; transition: none 0s ease 0s; display: inline-block; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; width: 0.809em;"></span></span></p>
+<p>3. Cliquez ensuite sur Exécuter</p>
